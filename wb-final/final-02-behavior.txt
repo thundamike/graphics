@@ -1,0 +1,13 @@
+Three different behaviors that you made:
+1. Plants grow when it starts to rain
+2. Tractor harvests the plants on command
+3. Windmill spins continuously
+
+One behavior that is not simple:
+Not simple: Tractor's harvesting path, able to fly over fences and drift around turns.
+
+Animated Articulated Figure:
+Articulated: Windmill. The blades rotate at a constant rate wrt the windmilll frame.
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- Raindrops fall from the sky at a random rate.
