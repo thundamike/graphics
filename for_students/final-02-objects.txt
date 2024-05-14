@@ -1,0 +1,28 @@
+(Required) Two kinds of objects created for this assignment:
+1. "Fence(1-59)" - A fence made from three primitives with smoothed corner posts.
+2. Windmill - made from from three primitives, and an extruded geometry for the blades.
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. "FarmHouse": made from basic triangle geometry and loaded textures, adapted from WB7
+4. "Plant(1-12)": loaded from a .FBX file, attribution below
+5. "Tractor": loaded from a .FBX file, attribution below
+6. "Rain": simple Three primitive visible when checking "rain" button (I didn't want to include in the LookAt, since all of the drops would pollute the list. It's just a Three Sphere geometry and a gray coloring distorted to have a more rain-like appearance)
+7. "Dirt(0-23)": Perlin noise algorithm applied to a fragment shader and SimpleGrCube geometry (attribution below)
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- Sunny farm Cube Map for scene background
+- Rainy farm Cube Map for scene background
+
+At least one of each type of object:
+Building/structure: "FarmHouse" (described above)
+Vehicle: "Tractor" (above)
+Natural Element: Sunny farm / rainy farm backdrop (or "Rain", if those don't count)
+
+Object loaded from a model file:
+Model: "Tractor" (described above)
+
+An object with a shader that you wrote:
+ShaderObj: "Dirt(0-23)" (described above)
+
+Other Objects that you would like to note:
+The raindrops are not highlighted since they only arrive in the scene conditionally. 
