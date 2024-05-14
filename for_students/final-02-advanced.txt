@@ -1,9 +1,0 @@
-Advanced Things: (not exactly sure how "advanced" these are)
-
-(3) Complex Object: Windmill. Put together many three primitives to form the base, as well as custom shapes for the windmill blades.
-
-(2) Complex behavior: The tractor uses a state machine which is triggered by the user, in which it follows a course to "harvest" each of the crops. As it passes over each crop, the crops are chopped down. Each crop can grow once the rain is initiated by the user.
-
-(4) Particle system: Rain made from Three primitives is initiated by the user, and falls at a random rate. 
-
-(12) Use noise: The dirt patches make use of Perlin noise to give the appearance of a random dirt-like texture.
