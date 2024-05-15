@@ -1,0 +1,5 @@
+Please describe the vehicles you created and how you made them in this file 08-07-01.txt
+
+Used two different extrdue geometries for the wheels and body, and applied 
+a cow print https://cdn.wallpapersafari.com/20/40/CnM3Qs.jpg to the body's
+geometry.

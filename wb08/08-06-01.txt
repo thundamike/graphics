@@ -1,0 +1,9 @@
+Please describe the buildings you created in this file 08-06-01.txt
+
+Right house: made from triangle coordinates, roof has "box gable" shape, 
+             texture made from house.png image
+
+Left house:  made from triangle coordinates, roof is "M-shaped", 
+             texture also from house.png image
+
+
