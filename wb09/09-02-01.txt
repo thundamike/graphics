@@ -1,0 +1,10 @@
+Explain how you incorporated a material property map here and what its effect is (how can we see it?)
+
+Created a brick texture map for roughness (from an image) on the top of the cube,
+which responds to a light source by having a metallic quality when illuminated. 
+Once the texture map is in place, the brick pattern can begin to reflect the light shone 
+on the cube.
+
+To see this, zoom into the cube and tilt the camera towards the top of the cube, and adjust the tilt angle
+to see different lighting patterns.
+The brick pattern will visibly reflect the light in certain areas, depending on perspective.

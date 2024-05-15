@@ -1,0 +1,2 @@
+Spherical sky texture found here: https://www.sharecg.com/images/medium/3949.jpg.
+Used for both skyboxes. (most visible in the first box by tilting up)

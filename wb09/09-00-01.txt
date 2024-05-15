@@ -1,0 +1,10 @@
+In this box, explain how you used each of the creation methods listed above
+
+Took pictures of my laptop and keyboard to create texture maps for page 1.
+
+Images from https://threejs.org/examples/textures/brick_diffuse.jpg and
+https://threejs.org/examples/textures/brick_roughness.jpg for page 2.
+
+https://i.stack.imgur.com/LqQZu.jpg and https://i.imgur.com/MRqJbMv.jpg 
+for the earth normal maps on page 3.
+

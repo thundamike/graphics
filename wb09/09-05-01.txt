@@ -1,0 +1,4 @@
+The torus reflects the mountain scene surrounding it, including the blue sky at the top of the environment box. 
+
+I found this image by searching for "three.js cube texture maps"
+https://i.pinimg.com/736x/eb/b0/9c/ebb09c1a6207beb322f01cfde765a245--game-assets-maps.jpg

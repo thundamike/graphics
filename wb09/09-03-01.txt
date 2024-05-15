@@ -1,0 +1,7 @@
+Bump map (left): This map accentuates land elevation as 
+"bumpiness" using the map provided. Image source: https://i.imgur.com/MRqJbMv.jpg. 
+
+Normal map (right): This map allows for the sphere to
+accentuate the desert and tundra regions of the earth, which have the most prominent
+RGB values in the given image map. Image source: https://i.stack.imgur.com/LqQZu.jpg. 
+
