@@ -1,0 +1,2 @@
+This shader animates the striped sphere and cube by varying their colors with time.
+

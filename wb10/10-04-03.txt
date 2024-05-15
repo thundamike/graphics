@@ -1,0 +1,4 @@
+Specular lighting will form a circular point of white-colored reflection on the sphere,
+and the diffuse lighting will form a disrtibuted yellow coloring over the top of the sphere.
+The combination displays both at the same time.
+

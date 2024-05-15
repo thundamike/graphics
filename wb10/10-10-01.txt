@@ -1,0 +1,7 @@
+Where did you get your shader? Describe the source and include a link.
+The shader is from the GLSL sandbox: https://glslsandbox.com/e#102658.0
+
+
+
+In your own words, describe how this shader works. (3-5 sentences)
+It creates an animated pattern of rectangles which are moved either vertically or horizontally across the screen. Every 0.5 seconds, the blocks shift either to the left (if moving vertically) or down (if moving horizontally) by the smaller dimension of the rectangle. In addition, when the rectangles are shifted, all of the rectangles and the background switch colors (green/orange).

@@ -1,0 +1,3 @@
+This shader creates an alternating striping pattern between pink and green,
+using the x-position mod 10 to determine the color of the stripe along the
+z-direction.

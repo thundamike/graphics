@@ -1,0 +1,12 @@
+Where did the image come from? 
+From the workbook repository, I just used the UW image.
+
+
+
+What lighting did you implement?
+Diffuse lighting coming from the right-hand side of the screen.
+
+
+Did you do anything beyond basic texure with diffuse lighting (explain)?
+I changed the texture so that the Red Gym becomes the most pronounced object in the scene. Since it is the only red object, changing the normal map to elevate all redness in the image will allow the Red Gym to jut-out from the sphere, and be the center of attention.
+

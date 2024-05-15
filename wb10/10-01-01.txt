@@ -1,0 +1,5 @@
+1. The inputs for a vertex shader are the vertex attributes, and the main output
+is the screen-space position of the vertex passed. 
+
+2. A fragment shader is passed an individual fragment, and outputs the fragment's
+computed coloring, with a possibly updated depth. 
