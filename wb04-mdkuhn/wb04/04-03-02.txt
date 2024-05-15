@@ -1,0 +1,4 @@
+translate(3,0); translate(0,2); is matrix(1, 0, 3, 0, 1, 2);
+
+scale(2,3); translate(1,1); is matrix(2, 0, 2, 0, 3, 3);
+translate(1,1); scale(2,3); is matrix(2, 0, 1, 0, 3, 1);

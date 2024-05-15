@@ -1,0 +1,4 @@
+Students should list the advanced points they have completed:
+
+    - boids bounce off an obstacle in center of canvas
+    - when mouse enters canvas, boids move towards location of mouse swipe
