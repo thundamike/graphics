@@ -1,0 +1,1 @@
+Extra features: two quadcopters, one controlled by user input (wasd controls). Note: the additional copter accelerates while it's being controlled, and admittedly it is a little buggy.
