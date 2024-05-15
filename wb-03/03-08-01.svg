@@ -1,0 +1,14 @@
+<!-- here is a big, empty SVG! make it into something interesting! -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600px" width="600px">
+    <g id="eye">
+        <path d="M 180 315 
+                 A 30 50 0 1 120 315" stroke="black" fill="green" stroke-width="2" />
+        <g id="pupil">
+            <polygon points="60,425 110,350 110,400 160,325" fill="black" stroke-width="1" />
+        </g>
+    </g>
+    <!-- the same two transformations, just in different order -->
+    <use transform="translate(200, 0) rotate(0)"  xlink:href="#eye" />
+    <use transform="translate(400, 0) rotate(0)"  xlink:href="#eye" />
+</svg>
+
