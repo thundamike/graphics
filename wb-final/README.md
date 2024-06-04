@@ -1,4 +1,3 @@
 # CS559 Final Workbook
-The final "world" is in final-grtown.html
-The workbook content is Copyright &copy; 2023, Michael Gleicher.
+I cannot upload all of the course framework code so that this repo can be pulled directly, so I've included a short demo of the project below:
 
